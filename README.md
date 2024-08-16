@@ -19,7 +19,7 @@
 
 <img width="1280" alt="Capture4" src="https://github.com/user-attachments/assets/892858e4-3de7-4627-af6d-06559fe3769b">
 
-## 2. Về Khách Vãn Lai
+## 2. Về Khách Vãng Lai
 
 ### 2.1. Trang Home
 
