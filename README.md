@@ -13,7 +13,7 @@
 
 #### Chức năng
 
-<img width="1280" alt="Capture3" src="https://github.com/user-attachments/assets/6c34ffc6-5aae-4e9e-9344-1f73d10bb062">
+<img width="1280" alt="Capture2" src="https://github.com/user-attachments/assets/648ef528-280d-499f-81a8-97720630af1a">
 
 #### In hoá đơn, hợp đồng...
 
